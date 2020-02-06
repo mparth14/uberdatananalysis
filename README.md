@@ -1,4 +1,4 @@
-# UBER-data-analysis :cherry_blossom:
+# UBER-data-analysis 
 > **Data analysis on UBER's data of ride calls from travellers** 
 
 ***I used simple python functions to get really facinating results from the data. After analysing the data we got the following output results.***
